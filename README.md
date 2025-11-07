@@ -5,11 +5,72 @@
 3. Maryne Jeanhel T. Pabillore
 4. Therese Julianne C. Villaro
 
-## Milestone 1 (Nov Week 1): Project Proposal & Introduction
-In our mnilestone 1 within this week our group will focus on finalizing the database prototype and identifying the requires entities and attributes as we will proceed to create the initial API.
+## My Project Milestones
 
-Github will be updated when progress is made specially the README.md file. We would most likely use the checklist to have a progress check on what we have currently finished and the milestones would be continuously improved. And to continuously have proof of progress we would be updating and adding files to the github
+### Milestone 1 (Nov Week 1): Project Setup & API Design
+- **What we'll do:**  
+  This week, our team will finalize the project topic, define the database models for our main entities, and outline the initial API documentation.
 
-## Checklists 
-"[] Create Initial progress for database," "[] Finalize key entities and attributes," "[] Create initial front end,"
+- **Deliverables:**  
+  - Updated `README.md` with **Problem Statement**, **Project Goals**, and **Basic Data Models**  
+  - Created and committed `api.yaml` file listing all planned endpoints and HTTP methods  
 
+- **Checklists:**  
+  - [ ] Hold team meeting to finalize topic  
+  - [ ] Define main data models (e.g., User, Item, etc.)  
+  - [ ] Create `api.yaml` file  
+  - [ ] Commit and push all changes to GitHub  
+
+---
+
+### Milestone 2 (Nov Week 2): Backend Development
+- **What we'll do:**  
+  Build and test the backend API, including CRUD operations, authentication, and database connection.
+
+- **Deliverables:**  
+  - Working backend server with main routes  
+  - Database setup and connected  
+  - Postman tests for all endpoints  
+
+- **Checklists:**  
+  - [ ] Create API routes for CRUD operations  
+  - [ ] Implement authentication system  
+  - [ ] Connect database and seed test data  
+  - [ ] Test endpoints using Postman  
+  - [ ] Push working backend to GitHub  
+
+---
+
+### Milestone 3 (Nov Week 3): Frontend Development
+- **What we'll do:**  
+  Create the frontend interface that interacts with the backend API. Build core pages and implement basic UI functionality.
+
+- **Deliverables:**  
+  - Frontend project folder initialized (e.g., React, Vue, etc.)  
+  - Functional pages for viewing and adding items  
+  - Connected frontend to backend  
+
+- **Checklists:**  
+  - [ ] Initialize frontend framework  
+  - [ ] Create pages (Home, Add Item, Item Details)  
+  - [ ] Connect to API endpoints  
+  - [ ] Test frontend-backend communication  
+  - [ ] Commit and push updates  
+
+---
+
+### Milestone 4 (Nov Week 4): Integration, Testing & Final Review
+- **What we'll do:**  
+  Integrate all components, conduct final testing, and polish the UI and documentation for submission.
+
+- **Deliverables:**  
+  - Fully working integrated application  
+  - Finalized documentation (`README.md` updated with setup guide)  
+  - Demo or presentation ready for submission  
+
+- **Checklists:**  
+  - [ ] Integrate frontend and backend  
+  - [ ] Test full application features  
+  - [ ] Fix any bugs or issues  
+  - [ ] Update and finalize `README.md`  
+  - [ ] Prepare demo/presentation materials  
