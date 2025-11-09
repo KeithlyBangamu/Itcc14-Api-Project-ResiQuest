@@ -73,4 +73,9 @@
   - [ ] Test full application features  
   - [ ] Fix any bugs or issues  
   - [ ] Update and finalize `README.md`  
-  - [ ] Prepare demo/presentation materials  
+  - [ ] Prepare demo/presentation materials
+ 
+---
+
+### Team Members
+- Maryene Jeanhel T. Pabillore
