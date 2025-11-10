@@ -74,3 +74,8 @@
   - [ ] Fix any bugs or issues  
   - [ ] Update and finalize `README.md`  
   - [ ] Prepare demo/presentation materials  
+
+---
+
+## Team Members
+- Jude P. Macalaguing
