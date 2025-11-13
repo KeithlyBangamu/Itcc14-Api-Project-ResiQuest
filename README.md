@@ -2,7 +2,7 @@
 ## Members
 1. Kiethly V. Bangamu Arrachchige
 2. Jude P. Macalaguing
-3. Maryne Jeanhel T. Pabillore
+3. Maryene Jeanhel T. Pabillore
 4. Therese Julianne C. Villaro
 
 ## My Project Milestones
