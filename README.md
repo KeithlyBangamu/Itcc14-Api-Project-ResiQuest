@@ -1,9 +1,11 @@
 # My Project Milestones (ResiQuest)
+
 ## Members
-1. Kiethly V. Bangamu Arrachchige
-2. Jude P. Macalaguing
-3. Maryne Jeanhel T. Pabillore
-4. Therese Julianne C. Villaro
+1. [Kiethly V. Bangamu Arrachchige](https://github.com/KeithlyBangamu)
+2. [Jude P. Macalaguing](https://github.com/Judyyy11)
+3. [Maryne Jeanhel T. Pabillore](https://github.com/yennotfound)
+4. [Therese Julianne C. Villaro](https://github.com/ThereseVillaro)
+
 
 ## My Project Milestones
 
